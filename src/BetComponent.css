@@ -1,0 +1,10 @@
+
+.money{
+    margin-top: 16vh;
+  }
+  
+  .moneyNumber{
+    font-size: 40px;
+
+    word-wrap: break-word;
+  }

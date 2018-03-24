@@ -1,0 +1,47 @@
+.btn1{
+    position: relative;
+    vertical-align: top;
+    width: 70vh;
+    height: 60px;
+    padding: 0;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+    background: #e74c3c;
+    border: 0;
+    border-bottom: 2px solid #e74c3c;
+    cursor: pointer;
+    -webkit-box-shadow: inset 0 -2px #e74c3c;
+    box-shadow: inset 0 -2px #e74c3c;
+}
+.btn1:active{
+    top: 1px;
+    outline: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.btn2{
+    position: relative;
+    vertical-align: top;
+    width: 30%;
+    height: 60px;
+    padding: 0;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+    background: #3b5998;
+    border: 0;
+    border-bottom: 2px solid #3b5998;
+    cursor: pointer;
+    -webkit-box-shadow: inset 0 -2px #3b5998;
+    box-shadow: inset 0 -2px #3b5998;
+}
+.btn2:active{
+    top: 1px;
+    outline: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
